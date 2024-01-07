@@ -1,0 +1,17 @@
+3. What are the benefits of using meta tags.
+
+Answer:  meta tags is essential for-
+
+	A) effective SEO, 
+
+	B) Improving social media sharing, 
+
+	C) Influencing browser rendering, 
+
+	D) Providing directives to search engines, 
+
+	E) Ensuring browser compatibility, 
+
+	F) enabling website analytics and tracking.
+
+	Each meta tag serves a specific purpose in enhancing the overall performance and visibility of a website.
